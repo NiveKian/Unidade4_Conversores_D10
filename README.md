@@ -31,4 +31,4 @@ Trabalho do dia 10/02/2025 do projeto EmbarcaTech
 
 # Video de Funcionamento
 
-[![video](images/tumbnail_video.png)](https://drive.google.com/file/d/1dX4Jp0avNjiecwaIDkSKiIyV9NKIb3pN/view?usp=sharing)
+[![video](images/tumbnail_video.png)](https://drive.google.com/file/d/1oUu4prq1_oVJeKFKrMlNEUDyXj7qE_30/view?usp=sharing)
